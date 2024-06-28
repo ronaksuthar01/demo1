@@ -1,2 +1,2 @@
 # demo1
-the demo for creating a repository
+the demo for creating a repository.
